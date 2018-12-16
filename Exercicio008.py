@@ -1,0 +1,2 @@
+numero = int(input('Digite um número qualquer? '))
+print('A Tabuada de 0 a 10 desse número é: \n {0}*0 = {1} \n {0}*1 = {2} \n {0}*2 = {3} \n {0}*3 = {4} \n {0}*4 = {5} \n {0}*5 = {6} \n {0}*6 = {7} \n {0}*7 = {8} \n {0}*8 = {9}  \n {0}*9 = {10}  \n {0}*10 = {11}  '.format(numero, numero*0, numero*1, numero*2, numero*3, numero*4, numero*5, numero*6, numero*7, numero*8, numero*9, numero*10,))
